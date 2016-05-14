@@ -8,7 +8,7 @@ require('http').createServer(function(req, res) {
 
 	else getHtml(res);
 
-}).listen(process.env.PORT || 8080);
+}).listen(process.env.PORT);
 
 function getJson(input) {
 
