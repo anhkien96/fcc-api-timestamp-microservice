@@ -1,0 +1,23 @@
+{
+	"name": "fcc-api-timestamp-microservice",
+	"description": "You can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date.",
+	"author": "Kien Nguyen <anhkien96@gmail.com>",
+	"version": "0.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"fs": "0.0.2",
+		"http": "0.0.0"
+	},
+	"keywords": [
+		"fcc",
+		"freecodecamp",
+		"api",
+		"timestamp",
+		"microservice",
+		"anhkien96"
+	]	
+}
